@@ -1,0 +1,7 @@
+{
+  "name": "Cylen AI",
+  "description": "Minimalist and elegant AI assistant for text and image editing.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
